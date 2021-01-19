@@ -1,5 +1,5 @@
 # EFI
-CPU:i5 6300HQ
+CPU:i5 6300HQ</br>
 显卡:GTX950M
 硬盘：PM951
 核显：HD530
